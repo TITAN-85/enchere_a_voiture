@@ -1,0 +1,19 @@
+/*------------------------------------*\
+  colors / settings
+\*------------------------------------*/
+
+/* Bon version avec contrast - Axe valide! */
+:root {
+  --color-primary: #0a5e6b;
+  --color-primary-variation: #2075e4;
+  --color-primary-second-variation:#0d6199;
+  --color-secondary: #7eb78c;
+  --color-secondary-variation:#27853e  ;
+  --color-palette-first: #dfce9e;
+  --color-palette-second: #464a50; 
+  --color-palette-plus: #bbbec4; 
+  --color-palette-second-var: #c1e4ec;
+  --color-palette-third: #b2c8df;
+  --color-dark: #201D1F;
+  --color-white: #ffffff;
+}
